@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jokebox/static/css/main.7e8274f6.css",
+    "main.js": "/jokebox/static/js/main.369cfd8a.js",
+    "index.html": "/jokebox/index.html",
+    "main.7e8274f6.css.map": "/jokebox/static/css/main.7e8274f6.css.map",
+    "main.369cfd8a.js.map": "/jokebox/static/js/main.369cfd8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e8274f6.css",
+    "static/js/main.369cfd8a.js"
+  ]
+}
